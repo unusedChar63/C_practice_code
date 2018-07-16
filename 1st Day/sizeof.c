@@ -7,5 +7,6 @@ int main(int argc, char const *argv[])
     printf("Storage size for int: %ld\n",sizeof(char));
     printf("Storage size for int: %ld\n",sizeof(double));
     printf("Storage size for int: %ld\n",sizeof(float));
+
     return 0;
 }
